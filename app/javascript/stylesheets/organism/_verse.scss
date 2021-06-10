@@ -1,0 +1,18 @@
+.translation__item {
+  padding:10px; // add padding so that it will make some breathing space before content
+  border-radius: 15px;
+}
+.highlight{ 
+    background-color: #494a4a78; // changed the highlighted color when playing ayah optional
+}
+.translation__item .translation__text{
+    padding-left: 0px; // remove useless padding
+}
+.translation__item .translation__arabic { // add some styling to arabic text so that it may look a bit nicer
+    padding-top: 20px;
+    padding-right: 5px;
+    margin-left: 20px;
+}
+.ayah--actions{ // centered the action icons
+  text-align:center;
+}
